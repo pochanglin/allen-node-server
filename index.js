@@ -6,7 +6,7 @@ const app = express();
 // passport.use(new GoogleStrategy());
 
 app.get('/', (req, res) => {
-    res.send('hello world');
+    res.send('hello world yo~~~');
 });
 
 const PORT = process.env.PORT || 5000;
