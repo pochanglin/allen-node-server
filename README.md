@@ -6,3 +6,6 @@ Simple Web application by using the MERN Stack
 - Express
 - React
 - Node.js
+
+### Deploy on Heroku
+https://floating-plains-17842.herokuapp.com/
